@@ -2,8 +2,24 @@
 <b>PERTANYAAN DAN TUGAS</b>
   1. Tambahkan Layout untuk menu About
   => buat single layout yang berisi deskripsi, portfolio, dll
+  ![Screenshot (255)](https://user-images.githubusercontent.com/101716699/161982727-3bb564ac-1ab9-4400-a8cc-ed2be8d5de4a.png)
+  Bagian 2
+  ![Screenshot (256)](https://user-images.githubusercontent.com/101716699/161982751-5bafbdfe-b0b5-4241-a0eb-e0fe08e0b73d.png)
+  Tambahkan kode pada file css.
+  ![Screenshot (257)](https://user-images.githubusercontent.com/101716699/161982758-4af7e9ca-7744-410b-af30-550a9922a5ee.png)
+  Simpan dan buka pada browser untuk melihat hasilnya.
+  ![Screenshot (261)](https://user-images.githubusercontent.com/101716699/161983711-e471fa57-15ee-43d6-bd0f-d9593f21422b.png)
+
   2. Tambahkan layout untuk menu Contact
   => yang berisi form isian: nama, email, message, dll
+  ![Screenshot (258)](https://user-images.githubusercontent.com/101716699/161984076-aa38cd82-58e1-459f-bbf0-99b89ff4f649.png)
+  Bagian 2
+  ![Screenshot (259)](https://user-images.githubusercontent.com/101716699/161984091-4992fbd3-029b-453d-a413-7a224179de90.png)
+  Tambahkan kode pada file css.
+  ![Screenshot (260)](https://user-images.githubusercontent.com/101716699/161984094-76b1e363-928a-4f1b-b8f0-edc670a51b03.png)
+  Simpan dan buka pada browser untuk melihat hasilnya.
+  ![Screenshot (262)](https://user-images.githubusercontent.com/101716699/161984097-848ddbc6-b39d-4492-8e7b-0d54d721d7f6.png)
+
   
 <b>LAPORAN PRAKTIKUM</b>
   
